@@ -9,6 +9,11 @@
 * (layui github地址)[https://github.com/sentsin/layui/blob/master/src/lay/modules/form.js]
 * (w3school在线教程)[http://www.w3school.com.cn/]
 
+#### 微信小程序开发文档
+* (微信小程序开发官方文档)[https://mp.weixin.qq.com]
+* (小程序社区)[http://www.wxapp-union.com]
+
+
 #### angular文档
 * (angular 中文文档)[https://angular.cn/docs]
 * (angular.js中文文档)[http://www.angularjs.net.cn/]
@@ -42,3 +47,8 @@
 #### HTML文档
 * (flex布局)[http://www.wxapp-union.com/forum.php?mod=viewthread&tid=1209]
 
+#### 可视化数据
+* (拾取坐标系统)[http://api.map.baidu.com]
+* (echarts)[http://echarts.baidu.com/index.html]
+* (highcharts)[https://www.hcharts.cn/]
+* (d3)[https://github.com/d3/d3/wiki/API--%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8C]
