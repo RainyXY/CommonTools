@@ -12,6 +12,7 @@
 #### 微信小程序开发文档
 * (微信小程序开发官方文档)[https://mp.weixin.qq.com]
 * (小程序社区)[http://www.wxapp-union.com]
+* (wepy官方文档)[https://tencent.github.io/wepy/#/]
 
 
 #### angular文档
@@ -38,6 +39,7 @@
 * (icommon图标库)[https://icomoon.io/app/#/select]
 * (github)[https://github.com/xf27]
 * (gitbook)[https://www.gitbook.com/@xufanglove]
+
 
 #### JS文档
 * (lodash文档)[http://www.css88.com/doc/lodash/#_fillarray-value-start0-endarraylength]
