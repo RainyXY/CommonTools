@@ -13,6 +13,7 @@
 * (微信小程序开发官方文档)[https://mp.weixin.qq.com]
 * (小程序社区)[http://www.wxapp-union.com]
 * (wepy官方文档)[https://tencent.github.io/wepy/#/]
+* (阿拉丁统计)[https://www.aldwx.com/]
 
 
 #### angular文档
