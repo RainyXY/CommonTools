@@ -14,7 +14,7 @@
 * (小程序社区)[http://www.wxapp-union.com]
 * (wepy官方文档)[https://tencent.github.io/wepy/#/]
 * (阿拉丁统计)[https://www.aldwx.com/]
-
+* (微信公众平台官方文档)[https://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1445241432]
 
 #### angular文档
 * (angular 中文文档)[https://angular.cn/docs]
@@ -24,6 +24,10 @@
 * (vue 中文文档)[https://cn.vuejs.org/]
 * (element 中文ui组件)[http://element-cn.eleme.io/#/zh-CN]
 * (iview 中文ui组件)[https://www.iviewui.com/]
+
+#### react文档
+*(antdesign)[https://ant.design/index-cn]
+
 
 #### jquery文档
 * (jQuery API 中文文档)[https://www.jquery123.com/]
