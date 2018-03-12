@@ -26,7 +26,7 @@
 * (iview 中文ui组件)[https://www.iviewui.com/]
 
 #### react文档
-*(antdesign)[https://ant.design/index-cn]
+* (antdesign)[https://ant.design/index-cn]
 
 
 #### jquery文档
