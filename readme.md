@@ -53,6 +53,7 @@
 
 #### HTML文档
 * (flex布局)[http://www.wxapp-union.com/forum.php?mod=viewthread&tid=1209]
+* (常见布局实现)[https://github.com/Sweet-KK/css-layout]
 
 #### 可视化数据
 * (拾取坐标系统)[http://api.map.baidu.com]
