@@ -60,3 +60,6 @@
 * (echarts)[http://echarts.baidu.com/index.html]
 * (highcharts)[https://www.hcharts.cn/]
 * (d3)[https://github.com/d3/d3/wiki/API--%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8C]
+
+#### 微信小游戏开发
+ * (cocos creator开发文档)[http://docs.cocos.com/creator/manual/zh/getting-started/hello-world.html]
