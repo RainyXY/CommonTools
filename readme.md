@@ -67,3 +67,4 @@
 * (cocos creator开发文档)[http://docs.cocos.com/creator/manual/zh/getting-started/hello-world.html]
 * (Cocos2d-js API)[http://www.cocos2d-x.org/reference/html5-js/V3.8/index.html]
 * (cocos中文社区)[http://forum.cocos.com/c/Creator]
+* (TexturePackerGUI_crack图集合并)[一款图片打包软件]
